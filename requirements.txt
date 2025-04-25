@@ -1,0 +1,7 @@
+streamlit
+openai
+azure-ai-textanalytics
+pandas
+requests
+python-dotenv
+plotly
